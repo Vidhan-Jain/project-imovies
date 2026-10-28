@@ -1,8 +1,9 @@
+
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/imovies/',
+  base: '/project-imovies/',
   plugins: [react()],
   server: {
     port: 5173,
