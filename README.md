@@ -5,7 +5,9 @@ A full-stack, enterprise-grade online movie ticket booking platform built with *
 The IMovies replicates modern cinema booking platforms like AMC, Cineplex, and BookMyShow, featuring interactive seat selection with tiered pricing, real-time seat locking to prevent double-bookings, coupon discount validation, digital QR-code ticket issuance, and comprehensive administrative analytics.
 
 ---
+[![Watch the Video](https://raw.githubusercontent.com/arnavdadaryagupta-web/imovies/main/thumbnail.jpg)](https://github.com/arnavdadaryagupta-web/imovies/blob/main/imovie%20video.mp4)
 
+---
 ## 🚀 Key Features
 
 - **Dynamic Movie Catalogue**: Browse Now Showing and Upcoming movies, filter by genre and language, search with instant autocomplete.
@@ -221,5 +223,3 @@ npm run dev
 
 ### Admin Analytics (`/api/admin`)
 - `GET /api/admin/stats` — Revenue, tickets sold, and recent audits *(Admin)*
-#   p r o j e c t - i m o v i e s  
- 
